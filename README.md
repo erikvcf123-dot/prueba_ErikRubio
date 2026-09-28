@@ -1,3 +1,3 @@
 # Probetaapellidet
 
--Estado del proyecto: versión estable
+-Estado del proyecto: versión en desarrollo
